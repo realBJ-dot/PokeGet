@@ -22,7 +22,7 @@ function App() {
     <div>
       
       <NavgBar/>
-      <PageComponent {...pokemons}/>
+      <h1>hhhhhhhhh</h1>
       
     </div>
   );
